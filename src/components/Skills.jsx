@@ -7,7 +7,7 @@ export default function Skills() {
       <div className="container px-5 py-10 mx-auto">
         <div className="text-center mb-20">
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
-            Important Values and Principals
+            Important Values and Principles
           </h1>
 
         </div>
